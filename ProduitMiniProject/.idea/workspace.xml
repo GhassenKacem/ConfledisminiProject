@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b60ce90-29e3-442c-9387-346124d2fe20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Model/Produit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/add-produit/add-produit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/add-produit/add-produit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/add-produit/add-produit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/add-produit/add-produit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/detail-produit/detail-produit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/detail-produit/detail-produit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/detail-produit/detail-produit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/detail-produit/detail-produit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/list-produit/list-produit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/list-produit/list-produit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/list-produit/list-produit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/list-produit/list-produit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/update-produit/update-produit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/update-produit/update-produit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/update-produit/update-produit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/Produit/update-produit/update-produit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/produits-services.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/app/produits-services.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/assets/img/85dcc4261d4c15b297d4f5c201a4f4b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/src/assets/img/9157b4fedff561051e3ac986a2e69608.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front-end" />
+  </component>
+  <component name="ProjectId" id="1gCn3Nzug3LAf6VBwuhvrb22Com" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Angular/GetStat" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="C:\Users\ADM01\Desktop\ProduitMiniProject\front-end\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADM01\Desktop\ProduitMiniProject\front-end\src\assets\img" />
+      <recent name="C:\Users\ADM01\Desktop\ProduitMiniProject\front-end\src\app\Produit" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b60ce90-29e3-442c-9387-346124d2fe20" name="Default Changelist" comment="" />
+      <created>1597627241646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597627241646</updated>
+      <workItem from="1597627244119" duration="2781000" />
+      <workItem from="1597665640600" duration="18269000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597674612523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597674612523" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1597668149478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1597668149478" />
+  </component>
+</project>
